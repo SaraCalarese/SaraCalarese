@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://www.linkedin.com/in/sara-calarese-22a30a290"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/sara-calarese-22a30a290/%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sara120200@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
